@@ -25,5 +25,5 @@ removed.
 
 ## Visualization
 The results of queries were imported as an Excel file into Microsoft PowerBI where visualization was done. 
-View visualization [here](https://app.powerbi.com/reportEmbed?reportId=b06cf4d3-03db-44cf-9984-69c35d9a9d25&autoAuth=true&ctid=132076e5-2bdc-4cf0-8bde-5fb4914a7c87)
+View visualization [here](https://github.com/Tomianne/ChemicalCosmetics/blob/main/Chemical%20In%20Cosmetics%20Vizualization.pdf)
 
